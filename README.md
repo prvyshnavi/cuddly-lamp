@@ -1,2 +1,2 @@
 # cuddly-lamp
-just another repository
+just another good repository
